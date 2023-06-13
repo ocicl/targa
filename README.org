@@ -1,0 +1,10 @@
+* targa
+
+Targa Image Loading for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/massung/targa.git   |
+| commit  | f4c08ee  |
+| systems | targa |
+|---------+-------------------------------------------|
+
